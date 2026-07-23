@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1C1A18"/>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <circle cx="980" cy="160" r="220" fill="#FF5A1F" opacity="0.12"/>
+  <rect x="80" y="150" width="64" height="64" rx="14" fill="#FF5A1F"/>
+  <svg x="96" y="166" width="32" height="32" viewBox="0 0 24 24">
+    <path d="M12 3c3 3.6 5.2 6.6 5.2 9.3a5.2 5.2 0 0 1-10.4 0C6.8 9.6 9 6.6 12 3Z" fill="#ffffff"/>
+    <circle cx="12" cy="13.6" r="1.7" fill="#FF5A1F"/>
+  </svg>
+  <text x="80" y="300" font-family="Pretendard, -apple-system, sans-serif" font-size="46" font-weight="800" fill="#ffffff">남양주 한일윌로모터펌프</text>
+  <text x="80" y="360" font-family="Pretendard, -apple-system, sans-serif" font-size="46" font-weight="800" fill="#FF5A1F">지하수·배수펌프 출장수리</text>
+  <text x="80" y="420" font-family="Pretendard, -apple-system, sans-serif" font-size="24" fill="#c9c2b6">남양주 전 지역 · 증상 자가진단 · 당일 출장</text>
+  <text x="80" y="560" font-family="JetBrains Mono, monospace" font-size="20" fill="#8a7f72">파워펌프 서비스센터 · 010-4757-3396</text>
+</svg>
